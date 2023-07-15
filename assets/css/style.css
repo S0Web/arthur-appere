@@ -148,6 +148,7 @@ h6 {
 
   #header .social-links {
     margin-top: 20px;
+    margin-bottom: 30px
   }
 
   #header .container {
@@ -155,8 +156,9 @@ h6 {
     flex-direction: column;
     align-items: center;
     position: absolute;
-    bottom: 45px;
+    bottom: 15px;
   }
+
 }
 
 /* Header Top */
